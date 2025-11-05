@@ -1,6 +1,6 @@
 #  Conversor de Moedas em Java
 
-Este é um projeto desenvolvido como parte de um desafio prático de programação.  
+Este é um projeto desenvolvido como parte de um desafio prático de programação pela Oracle e Alura.  
 O objetivo é criar um **Conversor de Moedas** totalmente funcional, que consome uma **API de taxas de câmbio em tempo real** e permite ao usuário realizar conversões diretamente pelo **console**.
 
 ---
@@ -50,28 +50,4 @@ Copiar código
 > Substitua `YOUR-API-KEY` pela sua chave pessoal gratuita da [ExchangeRate API](https://www.exchangerate-api.com/).
 
 ---
-
-##  Como Executar
-
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/SeuUsuario/ConversorDeMoedas.git
-Abra o projeto em sua IDE Java (IntelliJ, Eclipse ou VS Code).
-
-Compile e execute a classe principal:
-
-bash
-Copiar código
-javac Main.java
-java Main
-Escolha uma opção no menu e digite o valor que deseja converter.
-
-🧠 Tecnologias Utilizadas
-☕ Java 8+
-
-🌐 API REST (HTTP Request)
-
-🧾 Manipulação de JSON
-
-🖥️ Console interativo
 
